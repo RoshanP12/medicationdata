@@ -1,0 +1,24 @@
+{
+  "medications": [
+    {
+      "id": "1",
+      "name": "Panadol",
+      "dosage": "500mg",
+      "frequency": "Twice daily",
+      "time": "Morning & Night",
+      "pharmacyName": "Chemist Warehouse City",
+      "pharmacyLat": -27.4698,
+      "pharmacyLon": 153.0251
+    },
+    {
+      "id": "2",
+      "name": "Amoxicillin",
+      "dosage": "250mg",
+      "frequency": "3x daily",
+      "time": "After meals",
+      "pharmacyName": "My Pharmacy",
+      "pharmacyLat": -27.4705,
+      "pharmacyLon": 153.0260
+    }
+  ]
+}
