@@ -1,0 +1,15 @@
+{
+  "medications": [
+    {
+      "name": "Panadol",
+      "dosage": "500mg",
+      "frequency": "Twice Daily",
+      "quantity": 20,
+      "time": "08:00",
+      "instructions": "Take after food",
+      "pharmacyName": "City Pharmacy",
+      "pharmacyLat": -16.7336,
+      "pharmacyLon": 145.7693
+    }
+  ]
+}
