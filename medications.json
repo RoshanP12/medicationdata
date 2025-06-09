@@ -1,7 +1,7 @@
 {
   "medications": [
     {
-      "id": 1,
+      "id": "med1",
       "name": "Paracetamol",
       "dosage": "500mg",
       "frequency": "3 times a day",
@@ -13,7 +13,7 @@
       "pharmacyLon": 145.7753
     },
     {
-      "id": 2,
+      "id": "med2",
       "name": "Ibuprofen",
       "dosage": "200mg",
       "frequency": "2 times a day",
@@ -25,7 +25,7 @@
       "pharmacyLon": 145.7700
     },
     {
-      "id": 3,
+      "id": "med3",
       "name": "Amoxicillin",
       "dosage": "250mg",
       "frequency": "3 times a day",
@@ -37,7 +37,7 @@
       "pharmacyLon": 145.7705
     },
     {
-      "id": 4,
+      "id": "med4",
       "name": "Atorvastatin",
       "dosage": "10mg",
       "frequency": "Once daily",
