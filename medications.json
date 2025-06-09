@@ -7,10 +7,16 @@
       "frequency": "Twice Daily",
       "quantity": 10,
       "time": "08:00",
-      "instructions": "Take after meals",
-      "pharmacyName": "City Pharmacy",
-      "pharmacyLat": -16.9203,
-      "pharmacyLon": 145.7700
+      "instructions": "Take after meals"
+    },
+    {
+      "id": "2",
+      "name": "Nurofen",
+      "dosage": "200mg",
+      "frequency": "Once Daily",
+      "quantity": 5,
+      "time": "10:00",
+      "instructions": "With water"
     }
   ]
 }
