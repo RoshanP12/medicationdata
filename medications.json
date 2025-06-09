@@ -7,7 +7,7 @@
       "frequency": "Twice a day",
       "quantity": 20,
       "time": "Morning",
-      "date": 1717795200000,   // <-- added date as timestamp (example: 2024-06-08)
+      "date": 1717795200000,  
       "instructions": "Take after food",
       "pharmacyName": "Chemist Warehouse Cairns",
       "pharmacyLat": -16.923241,
