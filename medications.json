@@ -8,9 +8,9 @@
       "quantity": 20,
       "time": "Morning",
       "instructions": "Take after food",
-      "pharmacyName": "Cairns Central Pharmacy",
-      "pharmacyLat": -16.9230,
-      "pharmacyLon": 145.7700
+      "pharmacyName": "Chemist Warehouse Cairns",
+      "pharmacyLat": -16.923241,
+      "pharmacyLon": 145.772156
     },
     {
       "id": "med2",
@@ -20,9 +20,9 @@
       "quantity": 15,
       "time": "Evening",
       "instructions": "Take with water",
-      "pharmacyName": "Night Owl Pharmacy",
-      "pharmacyLat": -16.9275,
-      "pharmacyLon": 145.7728
+      "pharmacyName": "Chemist Warehouse Cairns",
+      "pharmacyLat": -16.923241,
+      "pharmacyLon": 145.772156
     }
   ]
 }
