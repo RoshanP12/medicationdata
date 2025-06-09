@@ -2,48 +2,24 @@
   "medications": [
     {
       "id": "med1",
-      "name": "Paracetamol",
+      "name": "Panadol",
       "dosage": "500mg",
-      "frequency": "3 times a day",
+      "frequency": "Twice a day",
       "quantity": 20,
       "time": "Morning",
-      "instructions": "Take with food",
+      "instructions": "Take after food",
       "pharmacyName": "Cairns Central Pharmacy",
-      "pharmacyLat": -16.9256,
-      "pharmacyLon": 145.7753
+      "pharmacyLat": -16.9230,
+      "pharmacyLon": 145.7700
     },
     {
       "id": "med2",
       "name": "Ibuprofen",
       "dosage": "200mg",
-      "frequency": "2 times a day",
+      "frequency": "Once a day",
       "quantity": 15,
       "time": "Evening",
-      "instructions": "Avoid empty stomach",
-      "pharmacyName": "Cairns Medical Centre Pharmacy",
-      "pharmacyLat": -16.9280,
-      "pharmacyLon": 145.7700
-    },
-    {
-      "id": "med3",
-      "name": "Amoxicillin",
-      "dosage": "250mg",
-      "frequency": "3 times a day",
-      "quantity": 10,
-      "time": "Morning",
-      "instructions": "Complete full course",
-      "pharmacyName": "City Heart Pharmacy",
-      "pharmacyLat": -16.9230,
-      "pharmacyLon": 145.7705
-    },
-    {
-      "id": "med4",
-      "name": "Atorvastatin",
-      "dosage": "10mg",
-      "frequency": "Once daily",
-      "quantity": 30,
-      "time": "Night",
-      "instructions": "Take at bedtime",
+      "instructions": "Take with water",
       "pharmacyName": "Night Owl Pharmacy",
       "pharmacyLat": -16.9275,
       "pharmacyLon": 145.7728
